@@ -3,3 +3,10 @@
     background-color: #be99c9;
 	color:#ffffff;
 }
+@media (max-width: 540px) { 
+.row-content{
+	
+	max-width:340px;
+}
+
+ }
